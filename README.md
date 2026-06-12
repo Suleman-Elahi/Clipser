@@ -2,8 +2,6 @@
 
 Lightweight clipboard manager for Windows. Minimal, fast, stays out of your way.
 
-![theme](https://img.shields.io/badge/theme-dark%20%7C%20light-6C63FF)
-
 ![Clipboard UI](media/clipserui.png)
 
 ![Emoji Panel](media/clipseremoji.png)
@@ -102,6 +100,9 @@ pyinstaller --onefile --windowed --strip --name Clipser --icon media/clipser.png
 ```
 
 Typical results: ~70 MB raw → ~35 MB with UPX → ~25 MB with exclusions + UPX.
+
+## Icon Credits
+<a href="https://iconscout.com/icons/clipboard" class="text-underline font-size-sm" target="_blank">Clipboard</a> by <a href="https://iconscout.com/contributors/muhammad-auns" class="text-underline font-size-sm" target="_blank">IconsCretio</a>
 
 ## License
 
